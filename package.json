@@ -1,0 +1,22 @@
+{
+  "name": "robo-dataiesb",
+  "version": "1.0.0",
+  "description": "Robô de extração DATASUS SIA/SUS - Produção Ambulatorial",
+  "main": "robo_sia.js",
+  "scripts": {
+    "extrair": "node robo_sia.js",
+    "carregar": "node carregar_dados.js",
+    "executar": "node robo_sia.js && node carregar_dados.js",
+    "descobrir": "node descobrir_form.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "csv-parse": "^6.2.1",
+    "pg": "^8.20.0",
+    "playwright": "^1.59.1"
+  }
+}

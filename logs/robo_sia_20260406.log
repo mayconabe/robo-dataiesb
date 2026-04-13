@@ -1,0 +1,458 @@
+[2026-04-06T13:08:09.695Z] [INFO] ═══════════════════════════════════════════════
+[2026-04-06T13:08:09.698Z] [INFO] Robô DATASUS SIA/SUS - Produção Ambulatorial
+[2026-04-06T13:08:09.699Z] [INFO] Período: Jan/2024 → Jan/2026 (25 meses)
+[2026-04-06T13:08:09.700Z] [INFO] Conteúdo: Qtd.aprovada + Valor_aprovado
+[2026-04-06T13:08:09.700Z] [INFO] Formato: Colunas separadas por ";"
+[2026-04-06T13:08:09.701Z] [INFO] ═══════════════════════════════════════════════
+[2026-04-06T13:08:10.162Z] [INFO] ─── Jan/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:08:14.313Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:08:14.488Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:08:14.492Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:08:14.497Z] [INFO]   ✓ Período = Jan/2024 (qabr2401.dbf)
+[2026-04-06T13:08:14.534Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:08:14.564Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:08:17.550Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:08:17.565Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_012024.csv  (5600 linhas)
+[2026-04-06T13:08:20.728Z] [INFO] ─── Jan/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:08:22.772Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:08:22.946Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:08:22.950Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:08:22.954Z] [INFO]   ✓ Período = Jan/2024 (qabr2401.dbf)
+[2026-04-06T13:08:22.983Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:08:23.013Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:08:25.728Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:08:25.745Z] [INFO]   ✓ Salvo: sia_valor_aprovado_012024.csv  (5600 linhas)
+[2026-04-06T13:08:28.962Z] [INFO] ─── Fev/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:08:31.116Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:08:31.335Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:08:31.340Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:08:31.346Z] [INFO]   ✓ Período = Fev/2024 (qabr2402.dbf)
+[2026-04-06T13:08:31.385Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:08:31.424Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:08:34.363Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:08:34.378Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_022024.csv  (5600 linhas)
+[2026-04-06T13:08:37.520Z] [INFO] ─── Fev/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:08:47.047Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:08:47.276Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:08:47.283Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:08:47.286Z] [INFO]   ✓ Período = Fev/2024 (qabr2402.dbf)
+[2026-04-06T13:08:47.320Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:08:47.351Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:08:50.902Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:08:50.918Z] [INFO]   ✓ Salvo: sia_valor_aprovado_022024.csv  (5600 linhas)
+[2026-04-06T13:08:54.146Z] [INFO] ─── Mar/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:08:55.456Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:08:55.632Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:08:55.637Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:08:55.641Z] [INFO]   ✓ Período = Mar/2024 (qabr2403.dbf)
+[2026-04-06T13:08:55.673Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:08:55.701Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:00.125Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:00.140Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_032024.csv  (5600 linhas)
+[2026-04-06T13:09:03.427Z] [INFO] ─── Mar/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:09:05.373Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:09:05.584Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:09:05.588Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:09:05.592Z] [INFO]   ✓ Período = Mar/2024 (qabr2403.dbf)
+[2026-04-06T13:09:05.629Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:09:05.660Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:08.518Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:08.536Z] [INFO]   ✓ Salvo: sia_valor_aprovado_032024.csv  (5600 linhas)
+[2026-04-06T13:09:11.664Z] [INFO] ─── Abr/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:09:13.504Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:09:13.717Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:09:13.721Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:09:13.724Z] [INFO]   ✓ Período = Abr/2024 (qabr2404.dbf)
+[2026-04-06T13:09:13.754Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:09:13.787Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:18.302Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:18.323Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_042024.csv  (5600 linhas)
+[2026-04-06T13:09:21.539Z] [INFO] ─── Abr/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:09:23.335Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:09:23.534Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:09:23.538Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:09:23.544Z] [INFO]   ✓ Período = Abr/2024 (qabr2404.dbf)
+[2026-04-06T13:09:23.579Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:09:23.615Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:26.862Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:26.884Z] [INFO]   ✓ Salvo: sia_valor_aprovado_042024.csv  (5600 linhas)
+[2026-04-06T13:09:30.062Z] [INFO] ─── Mai/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:09:32.335Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:09:32.541Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:09:32.545Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:09:32.548Z] [INFO]   ✓ Período = Mai/2024 (qabr2405.dbf)
+[2026-04-06T13:09:32.586Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:09:32.622Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:37.017Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:37.033Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_052024.csv  (5600 linhas)
+[2026-04-06T13:09:40.197Z] [INFO] ─── Mai/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:09:42.042Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:09:42.311Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:09:42.317Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:09:42.322Z] [INFO]   ✓ Período = Mai/2024 (qabr2405.dbf)
+[2026-04-06T13:09:42.366Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:09:42.412Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:45.588Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:45.603Z] [INFO]   ✓ Salvo: sia_valor_aprovado_052024.csv  (5600 linhas)
+[2026-04-06T13:09:48.756Z] [INFO] ─── Jun/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:09:50.576Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:09:50.783Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:09:50.788Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:09:50.792Z] [INFO]   ✓ Período = Jun/2024 (qabr2406.dbf)
+[2026-04-06T13:09:50.823Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:09:50.854Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:09:55.595Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:09:55.613Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_062024.csv  (5600 linhas)
+[2026-04-06T13:09:58.745Z] [INFO] ─── Jun/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:10:00.417Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:10:00.604Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:10:00.608Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:10:00.612Z] [INFO]   ✓ Período = Jun/2024 (qabr2406.dbf)
+[2026-04-06T13:10:00.648Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:10:00.682Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:10:03.935Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:10:03.958Z] [INFO]   ✓ Salvo: sia_valor_aprovado_062024.csv  (5600 linhas)
+[2026-04-06T13:10:07.113Z] [INFO] ─── Jul/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:10:08.553Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:10:08.776Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:10:08.782Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:10:08.788Z] [INFO]   ✓ Período = Jul/2024 (qabr2407.dbf)
+[2026-04-06T13:10:08.833Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:10:08.870Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:10:14.305Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:10:14.321Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_072024.csv  (5600 linhas)
+[2026-04-06T13:10:17.505Z] [INFO] ─── Jul/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:10:19.692Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:10:19.886Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:10:19.890Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:10:19.895Z] [INFO]   ✓ Período = Jul/2024 (qabr2407.dbf)
+[2026-04-06T13:10:19.929Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:10:19.959Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:10:23.867Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:10:23.885Z] [INFO]   ✓ Salvo: sia_valor_aprovado_072024.csv  (5600 linhas)
+[2026-04-06T13:10:27.119Z] [INFO] ─── Ago/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:10:30.549Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:10:30.790Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:10:30.794Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:10:30.799Z] [INFO]   ✓ Período = Ago/2024 (qabr2408.dbf)
+[2026-04-06T13:10:30.837Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:10:30.875Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:10:36.100Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:10:36.117Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_082024.csv  (5600 linhas)
+[2026-04-06T13:10:39.324Z] [INFO] ─── Ago/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:10:41.622Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:10:41.851Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:10:41.854Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:10:41.857Z] [INFO]   ✓ Período = Ago/2024 (qabr2408.dbf)
+[2026-04-06T13:10:41.887Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:10:41.919Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:10:45.986Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:10:46.006Z] [INFO]   ✓ Salvo: sia_valor_aprovado_082024.csv  (5600 linhas)
+[2026-04-06T13:10:49.158Z] [INFO] ─── Set/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:10:50.535Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:10:50.756Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:10:50.761Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:10:50.766Z] [INFO]   ✓ Período = Set/2024 (qabr2409.dbf)
+[2026-04-06T13:10:50.805Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:10:50.840Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:10:56.840Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:10:56.856Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_092024.csv  (5600 linhas)
+[2026-04-06T13:11:00.009Z] [INFO] ─── Set/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:11:01.421Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:11:01.649Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:11:01.657Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:11:01.662Z] [INFO]   ✓ Período = Set/2024 (qabr2409.dbf)
+[2026-04-06T13:11:01.701Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:11:01.737Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:11:05.616Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:11:05.635Z] [INFO]   ✓ Salvo: sia_valor_aprovado_092024.csv  (5600 linhas)
+[2026-04-06T13:11:08.892Z] [INFO] ─── Out/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:11:11.315Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:11:11.549Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:11:11.553Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:11:11.557Z] [INFO]   ✓ Período = Out/2024 (qabr2410.dbf)
+[2026-04-06T13:11:11.596Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:11:11.636Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:11:16.563Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:11:16.582Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_102024.csv  (5600 linhas)
+[2026-04-06T13:11:19.707Z] [INFO] ─── Out/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:11:21.170Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:11:21.392Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:11:21.396Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:11:21.400Z] [INFO]   ✓ Período = Out/2024 (qabr2410.dbf)
+[2026-04-06T13:11:21.435Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:11:21.464Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:11:25.300Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:11:25.318Z] [INFO]   ✓ Salvo: sia_valor_aprovado_102024.csv  (5600 linhas)
+[2026-04-06T13:11:28.483Z] [INFO] ─── Nov/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:11:30.449Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:11:30.677Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:11:30.682Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:11:30.686Z] [INFO]   ✓ Período = Nov/2024 (qabr2411.dbf)
+[2026-04-06T13:11:30.723Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:11:30.760Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:11:42.033Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:11:42.051Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_112024.csv  (5600 linhas)
+[2026-04-06T13:11:45.239Z] [INFO] ─── Nov/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:11:46.959Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:11:47.134Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:11:47.139Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:11:47.142Z] [INFO]   ✓ Período = Nov/2024 (qabr2411.dbf)
+[2026-04-06T13:11:47.187Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:11:47.222Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:11:50.505Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:11:50.519Z] [INFO]   ✓ Salvo: sia_valor_aprovado_112024.csv  (5600 linhas)
+[2026-04-06T13:11:53.713Z] [INFO] ─── Dez/2024 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:11:55.182Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:11:55.367Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:11:55.371Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:11:55.374Z] [INFO]   ✓ Período = Dez/2024 (qabr2412.dbf)
+[2026-04-06T13:11:55.404Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:11:55.443Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:11:59.530Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:11:59.549Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_122024.csv  (5600 linhas)
+[2026-04-06T13:12:02.719Z] [INFO] ─── Dez/2024 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:12:10.382Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:12:10.655Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:12:10.661Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:12:10.667Z] [INFO]   ✓ Período = Dez/2024 (qabr2412.dbf)
+[2026-04-06T13:12:10.705Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:12:10.741Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:12:14.443Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:12:14.464Z] [INFO]   ✓ Salvo: sia_valor_aprovado_122024.csv  (5600 linhas)
+[2026-04-06T13:12:17.688Z] [INFO] ─── Jan/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:12:20.120Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:12:20.325Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:12:20.329Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:12:20.333Z] [INFO]   ✓ Período = Jan/2025 (qabr2501.dbf)
+[2026-04-06T13:12:20.368Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:12:20.404Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:12:24.648Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:12:24.664Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_012025.csv  (5600 linhas)
+[2026-04-06T13:12:27.927Z] [INFO] ─── Jan/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:12:35.934Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:12:36.179Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:12:36.191Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:12:36.198Z] [INFO]   ✓ Período = Jan/2025 (qabr2501.dbf)
+[2026-04-06T13:12:36.235Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:12:36.271Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:12:47.559Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:12:47.578Z] [INFO]   ✓ Salvo: sia_valor_aprovado_012025.csv  (5600 linhas)
+[2026-04-06T13:12:50.741Z] [INFO] ─── Fev/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:12:53.392Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:12:53.555Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:12:53.559Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:12:53.562Z] [INFO]   ✓ Período = Fev/2025 (qabr2502.dbf)
+[2026-04-06T13:12:53.595Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:12:53.631Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:12:58.762Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:12:58.774Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_022025.csv  (5600 linhas)
+[2026-04-06T13:13:01.907Z] [INFO] ─── Fev/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:13:03.965Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:13:04.160Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:13:04.164Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:13:04.168Z] [INFO]   ✓ Período = Fev/2025 (qabr2502.dbf)
+[2026-04-06T13:13:04.218Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:13:04.261Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:13:08.427Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:13:08.450Z] [INFO]   ✓ Salvo: sia_valor_aprovado_022025.csv  (5600 linhas)
+[2026-04-06T13:13:11.584Z] [INFO] ─── Mar/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:13:12.990Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:13:13.219Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:13:13.223Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:13:13.228Z] [INFO]   ✓ Período = Mar/2025 (qabr2503.dbf)
+[2026-04-06T13:13:13.265Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:13:13.306Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:13:19.167Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:13:19.281Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_032025.csv  (5600 linhas)
+[2026-04-06T13:13:22.403Z] [INFO] ─── Mar/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:13:24.507Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:13:24.734Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:13:24.739Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:13:24.743Z] [INFO]   ✓ Período = Mar/2025 (qabr2503.dbf)
+[2026-04-06T13:13:24.785Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:13:24.817Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:13:28.651Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:13:28.668Z] [INFO]   ✓ Salvo: sia_valor_aprovado_032025.csv  (5600 linhas)
+[2026-04-06T13:13:31.808Z] [INFO] ─── Abr/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:13:34.085Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:13:34.294Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:13:34.299Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:13:34.303Z] [INFO]   ✓ Período = Abr/2025 (qabr2504.dbf)
+[2026-04-06T13:13:34.339Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:13:34.377Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:13:39.098Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:13:39.122Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_042025.csv  (5600 linhas)
+[2026-04-06T13:13:42.269Z] [INFO] ─── Abr/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:13:44.685Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:13:44.871Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:13:44.876Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:13:44.881Z] [INFO]   ✓ Período = Abr/2025 (qabr2504.dbf)
+[2026-04-06T13:13:44.922Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:13:44.959Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:13:48.559Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:13:48.576Z] [INFO]   ✓ Salvo: sia_valor_aprovado_042025.csv  (5600 linhas)
+[2026-04-06T13:13:51.809Z] [INFO] ─── Mai/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:14:06.721Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:14:06.988Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:14:06.997Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:14:07.003Z] [INFO]   ✓ Período = Mai/2025 (qabr2505.dbf)
+[2026-04-06T13:14:07.043Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:14:07.077Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:14:12.047Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:14:12.070Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_052025.csv  (5600 linhas)
+[2026-04-06T13:14:15.228Z] [INFO] ─── Mai/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:14:23.128Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:14:23.389Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:14:23.393Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:14:23.397Z] [INFO]   ✓ Período = Mai/2025 (qabr2505.dbf)
+[2026-04-06T13:14:23.434Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:14:23.470Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:14:27.001Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:14:27.021Z] [INFO]   ✓ Salvo: sia_valor_aprovado_052025.csv  (5600 linhas)
+[2026-04-06T13:14:30.175Z] [INFO] ─── Jun/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:14:32.809Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:14:33.036Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:14:33.041Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:14:33.044Z] [INFO]   ✓ Período = Jun/2025 (qabr2506.dbf)
+[2026-04-06T13:14:33.084Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:14:33.118Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:14:38.103Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:14:38.117Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_062025.csv  (5600 linhas)
+[2026-04-06T13:14:41.274Z] [INFO] ─── Jun/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:14:43.761Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:14:43.988Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:14:43.993Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:14:43.998Z] [INFO]   ✓ Período = Jun/2025 (qabr2506.dbf)
+[2026-04-06T13:14:44.038Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:14:44.079Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:14:48.007Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:14:48.028Z] [INFO]   ✓ Salvo: sia_valor_aprovado_062025.csv  (5600 linhas)
+[2026-04-06T13:14:51.234Z] [INFO] ─── Jul/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:14:55.886Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:14:56.127Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:14:56.132Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:14:56.138Z] [INFO]   ✓ Período = Jul/2025 (qabr2507.dbf)
+[2026-04-06T13:14:56.179Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:14:56.218Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:15:08.137Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:15:08.155Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_072025.csv  (5600 linhas)
+[2026-04-06T13:15:11.309Z] [INFO] ─── Jul/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:15:13.541Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:15:13.768Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:15:13.772Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:15:13.776Z] [INFO]   ✓ Período = Jul/2025 (qabr2507.dbf)
+[2026-04-06T13:15:13.810Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:15:13.849Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:15:17.510Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:15:17.534Z] [INFO]   ✓ Salvo: sia_valor_aprovado_072025.csv  (5600 linhas)
+[2026-04-06T13:15:20.694Z] [INFO] ─── Ago/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:15:22.680Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:15:22.905Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:15:22.908Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:15:22.912Z] [INFO]   ✓ Período = Ago/2025 (qabr2508.dbf)
+[2026-04-06T13:15:22.947Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:15:22.982Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:15:26.611Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:15:26.688Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_082025.csv  (5600 linhas)
+[2026-04-06T13:15:29.870Z] [INFO] ─── Ago/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:15:31.292Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:15:31.545Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:15:31.549Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:15:31.555Z] [INFO]   ✓ Período = Ago/2025 (qabr2508.dbf)
+[2026-04-06T13:15:31.590Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:15:31.624Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:15:35.087Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:15:35.106Z] [INFO]   ✓ Salvo: sia_valor_aprovado_082025.csv  (5600 linhas)
+[2026-04-06T13:15:38.366Z] [INFO] ─── Set/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:15:40.308Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:15:40.490Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:15:40.494Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:15:40.498Z] [INFO]   ✓ Período = Set/2025 (qabr2509.dbf)
+[2026-04-06T13:15:40.531Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:15:40.562Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:15:46.221Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:15:46.237Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_092025.csv  (5600 linhas)
+[2026-04-06T13:15:49.382Z] [INFO] ─── Set/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:15:57.504Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:15:57.776Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:15:57.781Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:15:57.786Z] [INFO]   ✓ Período = Set/2025 (qabr2509.dbf)
+[2026-04-06T13:15:57.823Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:15:57.856Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:16:02.063Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:16:02.086Z] [INFO]   ✓ Salvo: sia_valor_aprovado_092025.csv  (5600 linhas)
+[2026-04-06T13:16:05.232Z] [INFO] ─── Out/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:16:06.589Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:16:06.825Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:16:06.829Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:16:06.834Z] [INFO]   ✓ Período = Out/2025 (qabr2510.dbf)
+[2026-04-06T13:16:06.871Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:16:06.905Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:16:12.908Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:16:12.922Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_102025.csv  (5600 linhas)
+[2026-04-06T13:16:16.134Z] [INFO] ─── Out/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:16:17.673Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:16:17.907Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:16:17.911Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:16:17.914Z] [INFO]   ✓ Período = Out/2025 (qabr2510.dbf)
+[2026-04-06T13:16:17.944Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:16:18.005Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:16:21.482Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:16:21.503Z] [INFO]   ✓ Salvo: sia_valor_aprovado_102025.csv  (5600 linhas)
+[2026-04-06T13:16:24.711Z] [INFO] ─── Nov/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:16:26.823Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:16:27.015Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:16:27.019Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:16:27.022Z] [INFO]   ✓ Período = Nov/2025 (qabr2511.dbf)
+[2026-04-06T13:16:27.070Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:16:27.107Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:16:31.891Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:16:31.903Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_112025.csv  (5600 linhas)
+[2026-04-06T13:16:35.039Z] [INFO] ─── Nov/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:16:36.193Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:16:36.448Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:16:36.451Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:16:36.457Z] [INFO]   ✓ Período = Nov/2025 (qabr2511.dbf)
+[2026-04-06T13:16:36.489Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:16:36.525Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:16:40.498Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:16:40.519Z] [INFO]   ✓ Salvo: sia_valor_aprovado_112025.csv  (5600 linhas)
+[2026-04-06T13:16:43.673Z] [INFO] ─── Dez/2025 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:16:45.806Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:16:46.006Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:16:46.011Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:16:46.014Z] [INFO]   ✓ Período = Dez/2025 (qabr2512.dbf)
+[2026-04-06T13:16:46.048Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:16:46.082Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:16:58.770Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:16:58.781Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_122025.csv  (5600 linhas)
+[2026-04-06T13:17:02.036Z] [INFO] ─── Dez/2025 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:17:03.703Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:17:03.881Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:17:03.885Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:17:03.888Z] [INFO]   ✓ Período = Dez/2025 (qabr2512.dbf)
+[2026-04-06T13:17:03.918Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:17:03.952Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:17:07.313Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:17:07.330Z] [INFO]   ✓ Salvo: sia_valor_aprovado_122025.csv  (5600 linhas)
+[2026-04-06T13:17:10.469Z] [INFO] ─── Jan/2026 [qtd_aprovada] (tentativa 1) ───
+[2026-04-06T13:17:12.809Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:17:12.984Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:17:12.988Z] [INFO]   ✓ Conteúdo = Qtd.aprovada
+[2026-04-06T13:17:12.991Z] [INFO]   ✓ Período = Jan/2026 (qabr2601.dbf)
+[2026-04-06T13:17:13.027Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:17:13.061Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:17:18.876Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:17:18.887Z] [INFO]   ✓ Salvo: sia_qtd_aprovada_012026.csv  (5600 linhas)
+[2026-04-06T13:17:22.027Z] [INFO] ─── Jan/2026 [valor_aprovado] (tentativa 1) ───
+[2026-04-06T13:17:23.827Z] [INFO]   ✓ Linha = Município
+[2026-04-06T13:17:24.020Z] [INFO]   ✓ Coluna = Subgrupo_proced.
+[2026-04-06T13:17:24.024Z] [INFO]   ✓ Conteúdo = Valor_aprovado
+[2026-04-06T13:17:24.027Z] [INFO]   ✓ Período = Jan/2026 (qabr2601.dbf)
+[2026-04-06T13:17:24.061Z] [INFO]   ✓ Exibir linhas zeradas = marcado
+[2026-04-06T13:17:24.089Z] [INFO]   ✓ Formato = Colunas separadas por ";"
+[2026-04-06T13:17:27.636Z] [INFO]   → Dados extraídos via <pre> (formato prn)
+[2026-04-06T13:17:27.651Z] [INFO]   ✓ Salvo: sia_valor_aprovado_012026.csv  (5600 linhas)
+[2026-04-06T13:17:30.673Z] [INFO] ═══════════════════════════════════════════════
+[2026-04-06T13:17:30.675Z] [INFO] Concluído! Arquivos em: D:\Dados\robo-dataiesb\dados
