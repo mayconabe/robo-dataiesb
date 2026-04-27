@@ -1,6 +1,6 @@
 # Dependências
 node_modules/
  
-# Arquivos CSV
+# Arquivos CSV (exceto os dados do projeto)
 *.csv
- 
+!dados/*.csv
